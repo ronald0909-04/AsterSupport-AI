@@ -51,4 +51,4 @@ AsterSupport-AI/
 
 ![AsterSupport-AI Demo](AsterSupport-AI-recruiter-demo(1).gif)
 
-**Demo video:** [Watch the full project execution](demo (2).mp4)
+
