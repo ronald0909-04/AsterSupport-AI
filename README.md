@@ -79,6 +79,4 @@ The GIF provides a quick visual overview of the most important execution flow:
 
 **Test Result:** `20 passed` ✅
 
-![AsterSupport-AI Demo](AsterSupport-AI-recruiter-demo(1).gif)
-
 
