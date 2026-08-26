@@ -44,7 +44,7 @@ AsterSupport-AI/
 ├── demo.py
 ├── requirements.txt
 └── README.md
-
+```
 ## 🎥 Project Demo
 
 ### AI Customer Support Agent in Action
