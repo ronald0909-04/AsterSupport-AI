@@ -1,0 +1,29 @@
+{
+  "ORD-2001": {
+    "status": "shipped",
+    "carrier": "FedEx",
+    "estimated_delivery": "August 29, 2026",
+    "customer_email": "maya.lee@example.test",
+    "shipping_address": "14 Park Avenue",
+    "internal_note": "Customer requested expedited handling.",
+    "risk_score": 24
+  },
+  "ORD-2002": {
+    "status": "delivered",
+    "carrier": "UPS",
+    "estimated_delivery": "August 20, 2026",
+    "customer_email": "noah.khan@example.test",
+    "shipping_address": "88 Lake Road",
+    "internal_note": "Delivered successfully.",
+    "risk_score": 11
+  },
+  "ORD-2003": {
+    "status": "cancelled",
+    "carrier": null,
+    "estimated_delivery": null,
+    "customer_email": "sara.patel@example.test",
+    "shipping_address": "42 Hill Street",
+    "internal_note": "Cancellation completed.",
+    "risk_score": 7
+  }
+}
