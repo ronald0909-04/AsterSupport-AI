@@ -45,10 +45,10 @@ AsterSupport-AI/
 ├── requirements.txt
 └── README.md
 ```
-## 🎥 Project Demo
+## Project Demo
 
 ### AI Customer Support Agent in Action
 
 ![AsterSupport-AI Demo](AsterSupport-AI-recruiter-demo(1).gif)
 
-**Demo video:** [Watch the full project execution](demo_compressed.mp4)
+**Demo video:** [Watch the full project execution](demo (2).mp4)
