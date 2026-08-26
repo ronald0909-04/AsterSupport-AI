@@ -49,6 +49,6 @@ AsterSupport-AI/
 
 ### AI Customer Support Agent in Action
 
-![AsterSupport-AI Demo](AsterSupport-AI-recruiter-demo.gif)
+![AsterSupport-AI Demo](AsterSupport-AI-recruiter-demo(1).gif)
 
 **Demo video:** [Watch the full project execution](demo_compressed.mp4)
